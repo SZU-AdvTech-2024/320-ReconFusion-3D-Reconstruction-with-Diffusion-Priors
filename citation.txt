@@ -1,0 +1,6 @@
+@article{REPO320,
+    author = "Wu, Rundi and Mildenhall, Ben and Henzler, Philipp and Park, Keunhong and Gao, Ruiqi and Watson, Daniel and Srinivasan, Pratul P. and Verbin, Dor and Barron, Jonathan T. and Poole, Ben and Holynski, Aleksander",
+    journal = "arXiv",
+    title = "{ReconFusion: 3D Reconstruction with Diffusion Priors}",
+    year = "2023"
+}
