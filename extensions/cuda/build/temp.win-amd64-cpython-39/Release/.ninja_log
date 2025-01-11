@@ -1,0 +1,4 @@
+# ninja log v5
+5	6312	7507693127507558	D:/Study/zipnerf-pytorch/extensions/cuda/build/temp.win-amd64-cpython-39/Release/Study/zipnerf-pytorch/extensions/cuda/src/bindings.obj	773f1149b0dc041a
+9	19716	7507693261266230	D:/Study/zipnerf-pytorch/extensions/cuda/build/temp.win-amd64-cpython-39/Release/Study/zipnerf-pytorch/extensions/cuda/src/pdf.obj	afeb25357cc90886
+7	42906	7507693493029342	D:/Study/zipnerf-pytorch/extensions/cuda/build/temp.win-amd64-cpython-39/Release/Study/zipnerf-pytorch/extensions/cuda/src/gridencoder.obj	ef25c3bf7a423090

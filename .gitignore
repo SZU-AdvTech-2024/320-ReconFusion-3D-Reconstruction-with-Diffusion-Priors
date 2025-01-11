@@ -1,0 +1,15 @@
+__pycache__/
+interal/__pycache__/
+tests/__pycache__/
+.DS_Store
+.vscode/
+.idea/
+__MACOSX/
+exp/
+data/
+assets/
+test.py
+test2.py
+*.mp4
+*.ply
+scripts/train_360_debug.sh
